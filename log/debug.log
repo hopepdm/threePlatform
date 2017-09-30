@@ -1,0 +1,26 @@
+[2017-09-30 16:56:07.082] [DEBUG] debuglog - { page: 1,
+  count: 1,
+  limit: 9,
+  pages: 1,
+  content: 
+   [ { projectID: 59cf5beec5760e1ffcb60fb3,
+       proName: '123',
+       proDate: 2017-09-30T08:55:10.871Z,
+       culturalCount: 0,
+       publishedCount: 0 } ] }
+[2017-09-30 16:56:22.704] [DEBUG] debuglog - { page: 1,
+  count: 2,
+  limit: 9,
+  pages: 1,
+  content: 
+   [ { projectID: 59cf5c36c618fa0f844cbfea,
+       proName: '123',
+       proDate: 2017-09-30T08:56:22.662Z,
+       culturalCount: 0,
+       publishedCount: 0 },
+     { projectID: 59cf5beec5760e1ffcb60fb3,
+       proName: '123',
+       proDate: 2017-09-30T08:55:10.871Z,
+       culturalCount: 0,
+       publishedCount: 0 } ] }
+[2017-09-30 16:56:27.063] [DEBUG] debuglog - { page: 1, count: 0, limit: 9, pages: 0, content: [] }
